@@ -1,3 +1,13 @@
+## Additional Information by Aljoscha:
+
+The Tasks described below were performed.
+To reproduce the results you need to download and unzip the Dataset specified below.
+The second line in each script is a setwd() command, which you need to set to your respective directory where you store
+the Dataset. 
+
+Running the scripts should then reproduce the plots commited in the github repo.
+
+
 ## Introduction
 
 This assignment uses data from
